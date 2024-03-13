@@ -1,11 +1,11 @@
-<!ДОКТИП html>
-<HTML язык="ru">
-<голова>
-    <мета кодировка="UTF-8">
-    <мета Имя="область просмотра" содержание="ширина = ширина устройства, начальный масштаб=1.0">
-    <заголовок>Документ</заголовок>
-</голова>
-<тело>
-час<1>
-</тело>
-</HTML>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
